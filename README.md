@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=jaeeuncho)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true)
 
