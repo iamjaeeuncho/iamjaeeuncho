@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=capsule%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=jaeeun cho)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true)
 
 ### Hi there 👋
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
