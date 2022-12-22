@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&color=auto&height=260&text=Hello%20World!&fontColor=black&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?&type=cylinder&color=auto&height=120&text=Hello%20World!&fontColor=black&fontSize=50&fontAlign=50&animation=fadeIn)
 
 
 ### About me
@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/VSCode-F7DF1E?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F7DF1E?style=flat-square&logo=Git&logoColor=white"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjaeeuncho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true)
 
