@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=capsule%20render&fontSize=70)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true)
 
 ### Hi there 👋
 
