@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?height=260&text=Hello%20World!&fontColor=black&fontAlignY=40&desc=jaeeun's%20world&descSize=20&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?&color=auto&height=260&text=Hello%20World!&fontColor=black&fontAlignY=40&desc=jaeeun's%20world&descSize=20&descAlignY=60&animation=fadeIn)
+
+
+
+### Hi there 👋
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true)
-
-### Hi there 👋
 
