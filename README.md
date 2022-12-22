@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?height=300&text=Hello%20World!&fontColor=black&fontAlignY=50&desc=jaeeun's%20world&descSize=20&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?height=260&text=Hello%20World!&fontColor=black&fontAlignY=40&desc=jaeeun's%20world&descSize=20&descAlignY=60&animation=fadeIn)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true)
