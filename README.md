@@ -1,6 +1,7 @@
 <!-- 
-capsule render: https://github.com/kyechan99/capsule-render
-
+https://github.com/kyechan99/capsule-render
+https://img.shields.io
+https://simpleicons.org/
 -->
 
 <div align=center>
@@ -16,10 +17,12 @@ capsule render: https://github.com/kyechan99/capsule-render
 <p>
   <a href="https://www.linkedin.com/in/jaeeuncho/" target="_blank">
    <img src = "https://img.shields.io/badge/jaeeuncho-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://iamjaeeuncho.net" target="_blank">
-   <img src = "https://img.shields.io/badge/iamjaeeuncho-15171A?style=flat-square&logo=Ghost&logoColor=white"></a>
   <a href="mailto:redjoun@gmail.com?Subject=FromGithub" target="_blank">
    <img src = "https://img.shields.io/badge/redjoun@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://iamjaeeuncho.net" target="_blank">
+   <img src = "https://img.shields.io/badge/iamjaeeuncho.net-15171A?style=flat-square&logo=Ghost&logoColor=white"></a>
+  <a href="https://https://twitter.com/iamjaeeuncho" target="_blank">
+   <img src = "https://img.shields.io/badge/iamjaeeuncho-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
 </p>
 <br>
 <br>
