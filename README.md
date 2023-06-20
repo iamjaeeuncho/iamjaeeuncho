@@ -17,7 +17,7 @@ https://simpleicons.org/
 <p>
   <a href="https://www.linkedin.com/in/jaeeuncho/" target="_blank">
    <img src = "https://img.shields.io/badge/jaeeuncho-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://iamjaeeuncho.net" target="_blank">
+  <a href="http://iamjaeeuncho.net" target="_blank">
    <img src = "https://img.shields.io/badge/iamjaeeuncho.net-15171A?style=flat-square&logo=Ghost&logoColor=white"></a>
   <a href="https://twitter.com/iamjaeeuncho" target="_blank">
    <img src = "https://img.shields.io/badge/iamjaeeuncho-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
