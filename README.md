@@ -12,8 +12,7 @@ https://simpleicons.org/
 <h3 align="center"><b> 🦄 About me 🦄 </b></h3>
 <br>
 <p> Jaeeun Cho, a junior developer. </p>
-<p> Currently learning basic Programming skills. </p>
-<p> Interested in front-end developments. </p>
+<p> Interested in front-end and application developments. </p>
 <p>
   <a href="https://www.linkedin.com/in/jaeeuncho/" target="_blank">
    <img src = "https://img.shields.io/badge/jaeeuncho-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
