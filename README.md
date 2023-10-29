@@ -36,8 +36,8 @@ https://simpleicons.org/
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjaeeuncho&exclude_repo=iamjaeeuncho.github.io&layout=compact" width="35%" />
-<img src="https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjaeeuncho&layout=compact" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true" width="33.5%" />
 </p>
 <br>
 <br>
