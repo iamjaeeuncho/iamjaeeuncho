@@ -44,7 +44,7 @@ https://simpleicons.org/
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjaeeuncho&layout=compact" width="30%" />
-<img src="https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true" width="33.5%" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamjaeeuncho&theme=default_repocard&show_icons=true" width="40%" />
 </p>
 <br>
 <br>
