@@ -5,7 +5,7 @@ https://simpleicons.org/
 -->
 
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?&section=header&type=waving&color=auto&height=200&fontAlignY=40&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?&section=header&type=waving&color=auto&height=200&animation=fadeIn" />
 <br>
 <br>
 
