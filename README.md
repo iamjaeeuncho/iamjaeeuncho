@@ -18,8 +18,8 @@ https://simpleicons.org/
    <img src = "https://img.shields.io/badge/jaeeuncho-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
   <a href="mailto:redjoun@gmail.com?Subject=FromGithub" target="_blank">
    <img src = "https://img.shields.io/badge/redjoun@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://iamjaeeuncho.tistory.com/" target="_blank">
-   <img src = "https://img.shields.io/badge/iamjaeeuncho-15171A?style=flat-square&logo=tistory&logoColor=white"></a>
+<!--   <a href="https://iamjaeeuncho.tistory.com/" target="_blank">
+   <img src = "https://img.shields.io/badge/iamjaeeuncho-15171A?style=flat-square&logo=tistory&logoColor=white"></a> -->
   <a href="https://twitter.com/iamjaeeuncho" target="_blank">
    <img src = "https://img.shields.io/badge/iamjaeeuncho-1D9BF0?style=flat-square&logo=twitter&logoColor=white"></a>
   
