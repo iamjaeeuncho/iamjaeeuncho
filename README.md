@@ -11,13 +11,15 @@ https://simpleicons.org/
 
 <h3 align="center"><b> 🦄 About me 🦄 </b></h3>
 <br>
-<p> A junior web developer based in Seoul, Korea. </p>
+<p> A junior web developer :)</p>
 <p> Mainly back-end, but interested in full-stack developments as well.</p>
 <p>
   <a href="https://www.linkedin.com/in/jaeeuncho/" target="_blank">
    <img src = "https://img.shields.io/badge/jaeeuncho-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
   <a href="https://iamjaeeuncho.tistory.com/" target="_blank">
    <img src = "https://img.shields.io/badge/iamjaeeuncho-15171A?style=flat-square&logo=tistory&logoColor=white"></a>
+  <a href="https://twitter.com/iamjaeeuncho" target="_blank">
+   <img src = "https://img.shields.io/badge/iamjaeeuncho-1D9BF0?style=flat-square&logo=twitter&logoColor=white"></a>
 </p>
 <br>
 <br>
