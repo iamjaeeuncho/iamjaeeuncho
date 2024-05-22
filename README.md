@@ -11,11 +11,8 @@ https://simpleicons.org/
 
 <h3 align="center"><b> 🦄 About me 🦄 </b></h3>
 <br>
-<p> A junior web developer :)</p>
-<p> As a passionate junior web developer, I thrive on creating impactful products.</p>
-<p> While my main expertise lies in back-end development, I am equally intrigued by the full-stack landscape.</p>
-<p> My journey in tech is driven by a love for building efficient and innovative solutions,</p>
-<p> and I'm always eager to expand my knowledge and take on new challenges in web development.</p>
+<p> A junior web developer based in Seoul, Korea. </p>
+<p> Mainly back-end, but interested in full-stack developments as well.</p>
 <br>
 <p>
   <a href="https://www.linkedin.com/in/jaeeuncho/" target="_blank">
