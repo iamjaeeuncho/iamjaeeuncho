@@ -12,7 +12,11 @@ https://simpleicons.org/
 <h3 align="center"><b> 🦄 About me 🦄 </b></h3>
 <br>
 <p> A junior web developer :)</p>
-<p> Mainly back-end, but interested in full-stack developments as well.</p>
+<p> As a passionate junior web developer, I thrive on creating impactful products.</p>
+<p> While my main expertise lies in back-end development, I am equally intrigued by the full-stack landscape.</p>
+<p> My journey in tech is driven by a love for building efficient and innovative solutions,</p>
+<p> and I'm always eager to expand my knowledge and take on new challenges in web development.</p>
+<br>
 <p>
   <a href="https://www.linkedin.com/in/jaeeuncho/" target="_blank">
    <img src = "https://img.shields.io/badge/jaeeuncho-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
@@ -37,9 +41,13 @@ https://simpleicons.org/
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<br>
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/>
 </p>
 <br>
 <br>
