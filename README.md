@@ -11,8 +11,8 @@ https://simpleicons.org/
 
 <h3 align="center"><b> 🦄 About me 🦄 </b></h3>
 <br>
-<p> A junior web developer based in Seoul, Korea. </p>
-<p> Mainly back-end, but interested in full-stack developments as well.</p>
+<p> A junior web developer. </p>
+<p> Mainly back-end, but interested in full-stack developments.</p>
 <br>
 <p>
   <a href="https://www.linkedin.com/in/jaeeuncho/" target="_blank">
