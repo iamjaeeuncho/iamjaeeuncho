@@ -1,7 +1,7 @@
 <!-- 
 https://github.com/kyechan99/capsule-render
 https://img.shields.io
-https://simpleicons.org/
+https://simpleicons.org
 -->
 
 <div align=center>
@@ -11,7 +11,7 @@ https://simpleicons.org/
 
 <h3 align="center"><b> 🦄 About me 🦄 </b></h3>
 <br>
-<p> A junior web developer. </p>
+<p> An entry-level web developer. </p>
 <p> Mainly back-end, but interested in full-stack developments.</p>
 <br>
 <p>
@@ -20,7 +20,7 @@ https://simpleicons.org/
   <a href="https://iamjaeeuncho.tistory.com/" target="_blank">
    <img src = "https://img.shields.io/badge/iamjaeeuncho-15171A?style=flat-square&logo=tistory&logoColor=white"></a>
   <a href="https://twitter.com/iamjaeeuncho" target="_blank">
-   <img src = "https://img.shields.io/badge/iamjaeeuncho-1D9BF0?style=flat-square&logo=twitter&logoColor=white"></a>
+   <img src = "https://img.shields.io/badge/iamjaeeuncho-000000?style=flat-square&logo=x&logoColor=white"></a>
 </p>
 <br>
 <br>
@@ -32,19 +32,21 @@ https://simpleicons.org/
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 <br>
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </p>
 <br>
 <br>
