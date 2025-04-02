@@ -37,7 +37,7 @@
       Databases: MySQL, Oracle, SQLite
     </li>
     <li>
-      Tools: Git, Docker, AWS
+      ETC: Python, Git, Docker, AWS
     </li>
     <li>
       <b>Learning: TypeScript, Next.js 🔥 </b>
