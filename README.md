@@ -1,24 +1,25 @@
 <div align="center">
-  <h3>Hey there, I'm Jen! 👋</h3>
+  <h3>Hey there, I'm Jaeeun Cho! 👋</h3>
 </div>
 <br>
 
 <div>
-  I'm a highly motivated Frontend Developer with a strong foundation in backend development. My journey into development began with a deep curiosity for how things work under the hood, leading me to explore both frontend and backend technologies.
+  I’m Jen, a Software Developer who thrives on growth and challenges.
+  I have worked on various full-stack projects using Java and JavaScript, honing my problem-solving skills along the way. I have a strong passion for frontend development and enjoy building intuitive UIs and user-friendly web applications using frameworks like React and Vue. I am committed to continuous learning and strive to create better user experiences through thoughtful and efficient development.
 </div>
 <br>
 
 <div>
-  <p>🚀 Key Strength</p>
+  <p>🚀 Key Strengths</p>
   <ul>
     <li>
-      Passionate about learning: I embrace new challenges and actively seek opportunities to expand my skill set.
+      Self-driven: Continuously seeking new knowledge and skills in web development through self-study and hands-on projects.
     </li>
     <li>  
-      Team Player & Communicator: I believe the best solutions come from open discussions and shared knowledge.
+      Team Player: Enjoy brainstorming ideas through interactive discussions and collaborating with others to achieve common goals.
     </li>
     <li>
-      Fast learner & problem solver: I quickly adapt to new technologies and thrive in fast-paced environments.
+      Problem solver: Quickly adapts to new technologies and effectively applies them in real-world applications.
     </li>
   </ul>
 </div>
@@ -34,10 +35,10 @@
       Backend: Java, Spring, Spring Boot, Node.js(Express)
     </li>
     <li>
-      Databases: MySQL, Oracle, SQLite
+      Databases: MySQL, Oracle(PL/SQL), SQLite
     </li>
     <li>
-      ETC: Python, Git, Docker, AWS
+      Others: Python, Git, Docker, AWS
     </li>
     <li>
       <b>Learning: TypeScript, Next.js 🔥 </b>
