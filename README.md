@@ -49,7 +49,14 @@
 
 <div>
   <p>📫 Let's Connect!</p>
-  I'm always open to new opportunities and collaborations, so feel free to connect with me! 😊
+  <ul>
+    <li>
+      I'm always open to new opportunities and collaborations, so feel free to connect with me! 😊
+    </li>
+    <li>
+      Feel free to explore my work on GitHub (github.com/iamjaeeuncho) and visit my blog (iamjaeeuncho.github.io) for more insights.
+    </li>
+  </ul>
 </div>
 <br>
 
