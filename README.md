@@ -61,18 +61,13 @@
 <br>
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/jaeeuncho" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/iamjaeeuncho" target="_blank" rel="noopener noreferrer" title="GitHub">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://iamjaeeuncho.github.io" target="_blank" rel="noopener noreferrer" title="Website">
-      <img src="https://img.shields.io/badge/Website-FFA500?style=flat&logoColor=white" alt="Blog"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=iamjaeeuncho" alt="Visitor Count" />
-  </p>
+  <a href="https://www.linkedin.com/in/jaeeuncho" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/iamjaeeuncho" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://iamjaeeuncho.github.io" target="_blank" rel="noopener noreferrer" title="Website">
+    <img src="https://img.shields.io/badge/Website-FFA500?style=flat&logoColor=white" alt="Blog"/>
+  </a>
 </div>
