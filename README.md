@@ -1,11 +1,11 @@
 <div align="center">
-  <h3>Hey there, I'm Jaeeun Cho! 👋</h3>
+  <h3>Hi there, I'm Jaeeun Cho! 👋</h3>
 </div>
 <br>
 
 <div>
-  I’m Jen, a Software Developer who thrives on growth and challenges.
-  I have worked on various full-stack projects using Java and JavaScript, honing my problem-solving skills along the way. I have a strong passion for frontend development and enjoy building intuitive UIs and user-friendly web applications using frameworks like React and Vue. I am committed to continuous learning and strive to create better user experiences through thoughtful and efficient development.
+ㅤI’m <b>Jen</b>, a Software Developer who thrives on growth and challenges. With experience in full-stack development using <b>Java</b> and <b>JavaScript</b>, I’ve worked across the entire development lifecycle — from planning to backend and frontend development. Among these, I have a strong passion and skillset in frontend development, particularly with <b>Vue</b> and <b>React</b>.
+<br>
 </div>
 <br>
 
@@ -13,13 +13,13 @@
   <p>🚀 Key Strengths</p>
   <ul>
     <li>
-      Self-driven: Continuously seeking new knowledge and skills in web development through self-study and hands-on projects.
-    </li>
-    <li>  
-      Team Player: Enjoy brainstorming ideas through interactive discussions and collaborating with others to achieve common goals.
+      Passionate: I am always eager to expand my skill set across different areas of development, rather than limiting myself to a single domain.
     </li>
     <li>
-      Problem solver: Quickly adapts to new technologies and effectively applies them in real-world applications.
+      Team-Oriented: I enjoy collaborating with others, sharing ideas, and growing together through shared goals.
+    </li>
+    <li>
+      Self-Driven: I find great satisfaction in learning independently and applying new knowledge to real-world projects.
     </li>
   </ul>
 </div>
@@ -29,7 +29,7 @@
   <p>🛠 Tech Stack</p>
   <ul>
     <li>
-      Frontend: React.js, Vue.js, JavaScript, HTML, CSS
+      Frontend: React.js, Vue.js, JavaScript, HTML, CSS, Tailwind CSS
     </li>
     <li>  
       Backend: Java, Spring, Spring Boot, Node.js(Express)
@@ -51,7 +51,7 @@
   <p>📫 Let's Connect!</p>
   <ul>
     <li>
-      I'm always open to new opportunities and collaborations, so feel free to connect with me! 😊
+      I'm always open to new challenges and collaborations, so feel free to connect with me! 😊
     </li>
     <li>
       Feel free to explore my work on GitHub (github.com/iamjaeeuncho) and visit my blog (iamjaeeuncho.github.io) for more insights.
