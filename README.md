@@ -29,7 +29,7 @@
   <p>🛠 Tech Stack</p>
   <ul>
     <li>
-      Frontend: React.js, Vue.js, JavaScript, HTML, CSS, Tailwind CSS
+      Frontend: React.js, Vue.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
     </li>
     <li>  
       Backend: Java, Spring, Spring Boot, Node.js(Express)
@@ -41,7 +41,7 @@
       Others: Python, Git, Docker, AWS
     </li>
     <li>
-      <b>Learning: TypeScript, Next.js 🔥 </b>
+      <b>Learning: Next.js 🔥 </b>
     </li>
   </ul>
 </div>
