@@ -54,7 +54,7 @@
       I'm always open to new challenges and collaborations, so feel free to connect with me! 😊
     </li>
     <li>
-      Feel free to explore my work on GitHub (github.com/iamjaeeuncho) and visit my blog (iamjaeeuncho.github.io) for more insights.
+      Feel free to check out my work on GitHub(https://github.com/iamjaeeuncho), connect with me on LinkedIn(https://www.linkedin.com/in/jaeeuncho), or visit my blog(https://iamjaeeuncho.github.io) for more insights.
     </li>
   </ul>
 </div>
